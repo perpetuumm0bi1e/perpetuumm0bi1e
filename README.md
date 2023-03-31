@@ -1,9 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=23&duration=2000&pause=100&color=1C1B1F&center=true&vCenter=true&multiline=true&width=600&height=250&lines=Hi+there!;I'm+a+Computer+Science+student;Interested+in+Frontend-Development)](https://git.io/typing-svg)
 <hr>
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perpetuumm0bi1e)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perpetuumm0bi1e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <hr>
+
 - I’m currently learning JavaScript and UI/UX design
 <!--
 **perpetuumm0bi1e/perpetuumm0bi1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

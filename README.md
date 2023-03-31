@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C1B1F&width=435&lines=Hi+there!;I'm+a+Computer+Science+student;Interested+in+Frontend-Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1C1B1F&center=true&vCenter=true&multiline=true&width=435&lines=Hi+there!;I'm+a+Computer+Science+student;Interested+in+Frontend-Development)](https://git.io/typing-svg)
 <!--
 **perpetuumm0bi1e/perpetuumm0bi1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

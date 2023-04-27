@@ -10,6 +10,11 @@
 <hr>
 
 - I’m currently learning JavaScript and UI/UX design
+
+<hr>
+
+<em>https://perpetuumm0bi1e.github.io/cvSite/</em>
+<em>https://perpetuumm0bi1e.github.io/Arkanoid/</em>
 <!--
 **perpetuumm0bi1e/perpetuumm0bi1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

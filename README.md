@@ -8,26 +8,70 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perpetuumm0bi1e&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <hr>
+<h3 align = "center">Skills</h3>
+<h4>Have an experience in developing:</h4>
+- desktop-applications on C# with WPF
+- Web-applications on PHP with SQL Databases
+- Web-applications 
 
-- I’m currently learning JavaScript and UI/UX design
+<h4>Currently learning:</h4>
+- UI/UX design
+- Advanced DOM interaction
+- General JavaScript
+- Node.js
+
+<h4>I plan to master:</h4>
+- React.js
 
 <hr>
+<h3 align ="center" font-family: 'Unbounded', cursive;>Deployed</h3>
+Here are some of my deployed sites in the table below:
+<br><br>
 <div align = "center">
-<em>https://perpetuumm0bi1e.github.io/cvSite/</em>
+  <table align='center'>
+    <tr>
+      <th width="15%">
+        Name
+      </th>
+      <th width="15%">
+        Status
+      </th>
+      <th width="10%">
+        Link
+      </th>
+      <th width="60%">
+        Description
+      </th>
+    </tr>
+    <tr>
+      <td>
+        CV site
+      </td>
+      <td>
+        In progress
+      </td>
+      <td>
+  <a href="https://perpetuumm0bi1e.github.io/cvSite/">Visit</a>
+      </td>
+      <td>
+        Сontains examples of my work and information about me
+      </td>
+    </tr>
+    <tr>
+      <td>
+       Arkanoid game
+      </td>
+      <td>
+        In progress
+      </td>
+      <td>
+  <a href="https://perpetuumm0bi1e.github.io/Arkanoid/">Visit</a>
+      </td>
+      <td>
+        Arkanoid in a simple style, optimized for all types of devices. It allows users to pass a variety of author's levels in a "story" mode or set various personal parameters of the game in an "infinity" mode. Also it's possible to change the appearance and player profile
+      </td>
+    </tr>
+    <table>
   <br>
-<em>https://perpetuumm0bi1e.github.io/Arkanoid/</em>
   </div>
-<!--
-**perpetuumm0bi1e/perpetuumm0bi1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

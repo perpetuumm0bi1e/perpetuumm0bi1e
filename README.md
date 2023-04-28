@@ -24,7 +24,7 @@
 - React.js
 
 <hr>
-<h3 align ="center" font-family: 'Unbounded', cursive;>Deployed</h3>
+<h3 align ="center">Deployed</h3>
 Here are some of my deployed sites in the table below:
 <br><br>
 <div align = "center">

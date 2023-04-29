@@ -12,8 +12,8 @@
 <h4>Have an experience in developing:</h4>
 <ul>
   <li>desktop-applications on C# with WPF</li>
-  <li>Web-applications on PHP with SQL Databases</li>
-  <li>Web-applications </li>
+  <li>Web-applications on PHP with SQL Database</li>
+  <li>Web-applications on Node.js with SQLite3 Database</li>
   </ul>
 
 <h4>Currently learning:</h4>

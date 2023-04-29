@@ -10,18 +10,24 @@
 <hr>
 <h3 align = "center">Skills</h3>
 <h4>Have an experience in developing:</h4>
-- desktop-applications on C# with WPF
-- Web-applications on PHP with SQL Databases
-- Web-applications 
+<ul>
+  <li>desktop-applications on C# with WPF</li>
+  <li>Web-applications on PHP with SQL Databases</li>
+  <li>Web-applications </li>
+  </ul>
 
 <h4>Currently learning:</h4>
-- UI/UX design
-- Advanced DOM interaction
-- General JavaScript
-- Node.js
-
+<ul>
+  <li>UI/UX design</li>
+  <li>Advanced DOM interaction</li>
+  <li>General JavaScript</li>
+  <li>Node.js</li>
+  </ul>
 <h4>I plan to master:</h4>
-- React.js
+<ul>
+  <li>React.js</li>
+  </ul>
+
 
 <hr>
 <h3 align ="center">Deployed</h3>

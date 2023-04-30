@@ -85,7 +85,7 @@ Here are some of my deployed sites in the table below:
         In progress
       </td>
       <td>
-  <a href="https://perpetuumm0bi1e.github.io/mark/">Visit</a>
+  <a href="https://perpetuumm0bi1e.github.io/Mark/">Visit</a>
       </td>
       <td>
         A task manager optimized for all types of devices. Allows you to administer the user's current tasks. Displays the percentage of task completion on the current date. New useful features will be added in the near future
@@ -99,7 +99,7 @@ Here are some of my deployed sites in the table below:
         Finished
       </td>
       <td>
-  <a href="https://perpetuumm0bi1e.github.io/minOfFunc/">Visit</a>
+  <a href="https://perpetuumm0bi1e.github.io/MinOfFunction/">Visit</a>
       </td>
       <td>
         Finding the minimum of a function from two variables by different methods

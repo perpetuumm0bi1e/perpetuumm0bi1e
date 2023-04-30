@@ -77,6 +77,20 @@ Here are some of my deployed sites in the table below:
         Arkanoid in a simple style, optimized for all types of devices. It allows users to pass a variety of author's levels in a "story" mode or set various personal parameters of the game in an "infinity" mode. Also it's possible to change the appearance and player profile
       </td>
     </tr>
+    <tr>
+      <td>
+       Min of function
+      </td>
+      <td>
+        Finished
+      </td>
+      <td>
+  <a href="https://perpetuumm0bi1e.github.io/minOfFunc/">Visit</a>
+      </td>
+      <td>
+        Finding the minimum of a function from two variables by different methods
+      </td>
+    </tr>
     <table>
   <br>
   </div>

@@ -79,6 +79,20 @@ Here are some of my deployed sites in the table below:
     </tr>
     <tr>
       <td>
+       Mark - Task Manager
+      </td>
+      <td>
+        In progress
+      </td>
+      <td>
+  <a href="https://perpetuumm0bi1e.github.io/mark/">Visit</a>
+      </td>
+      <td>
+        A task manager optimized for all types of devices. Allows you to administer the user's current tasks. Displays the percentage of task completion on the current date. New useful features will be added in the near future
+      </td>
+    </tr>
+    <tr>
+      <td>
        Min of function
       </td>
       <td>
@@ -94,4 +108,3 @@ Here are some of my deployed sites in the table below:
     <table>
   <br>
   </div>
-

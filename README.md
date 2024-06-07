@@ -1,6 +1,6 @@
 <div align = "center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=1000&color=00163E&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=200&lines=Sup!;I'm+a+senior+year+Computer+Science+student;Interested+in+UX%2FUI-design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1000&color=00163E&vCenter=true&multiline=true&repeat=false&random=false&width=800&height=200&lines=Sup!;I'm+a+senior+year+Computer+Science+student;Interested+in+UX%2FUI-design)](https://git.io/typing-svg)
 <hr>
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=perpetuumm0bi1e)](https://git.io/streak-stats)

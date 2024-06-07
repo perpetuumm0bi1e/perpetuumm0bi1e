@@ -12,16 +12,15 @@
 <h4>Have an experience in developing:</h4>
 <ul>
   <li>desktop-applications on C# with WPF</li>
-  <li>Web-applications on PHP with SQL Database</li>
+  <li>Web-applications on PHP with MySQL Database</li>
   <li>Web-applications on Node.js with SQLite3 Database</li>
   </ul>
 
 <h4>Currently learning:</h4>
 <ul>
-  <li>UI/UX design</li>
+  <li>UX/UI design</li>
   <li>Advanced DOM interaction</li>
   <li>General JavaScript</li>
-  <li>Node.js</li>
   </ul>
 <h4>I plan to master:</h4>
 <ul>
